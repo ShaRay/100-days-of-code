@@ -1,13 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Jan 03, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on psd to html/css website.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Using Tachyons to build the psd to html/css website for practice. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: Jan 04, 2017 
+
+**Today's Progress**: Decided to work just on forms to before finishing the website to become better at it without holding up progress.
+
+**Thoughts:** I am using Tachyons to build the forms and some having some issues with how to add margin 
+
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
