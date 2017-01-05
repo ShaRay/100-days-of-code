@@ -12,6 +12,12 @@
 
 **Thoughts:** I am using Tachyons to build the forms and some having some issues with how to add margin 
 
+### Day 3: Jan 05, 2017 
+
+**Today's Progress**: continued my work on forms.
+
+**Thoughts:** I have to add to my style.css to adjust widths of input boxes. I have the display inline and block figured out for correct displays with input and labels.
+
 
 
 
